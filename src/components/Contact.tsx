@@ -49,7 +49,7 @@ export default function Contact() {
     },
     {
       label: "Portfolio",
-      value: "devyadav.me",
+      value: "devyportfolio.ace.me",
       href: "https://portfolio-74s8.vercel.app/",
       icon: Globe,
     },
