@@ -50,7 +50,7 @@ export default function Contact() {
     {
       label: "Portfolio",
       value: "devyadav.me",
-      href: "https://devyadav.me",
+      href: "https://portfolio-74s8.vercel.app/",
       icon: Globe,
     },
   ];
