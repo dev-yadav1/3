@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #fafaf8;
+    --foreground: #111111;
+    --accent: #3454d1;
+    --muted: #6b6b6b;
+    --border: #e5e5e2;
+  }
+
+  * {
+    border-color: #e5e5e2;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    background-color: #fafaf8;
+    color: #111111;
+  }
+
+  body {
+    background-color: #fafaf8;
+    color: #111111;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background-color: rgba(52, 84, 209, 0.15);
+    color: #3454d1;
+  }
+
+  /* Editorial minimalist scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #fafaf8;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #d8d8d4;
+    border-radius: 9999px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #6b6b6b;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Thin 1px outlined button styling utility */
+  .btn-outline-pill {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-foreground/90 px-6 py-3 text-body-base font-medium text-foreground transition-all duration-300 hover:bg-foreground hover:text-background active:scale-[0.98];
+  }
+
+  .btn-outline-rect {
+    @apply inline-flex items-center justify-center gap-2 rounded-sm border border-foreground/90 px-6 py-3 text-body-base font-medium text-foreground transition-all duration-300 hover:bg-foreground hover:text-background active:scale-[0.98];
+  }
+
+  .btn-outline-accent {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-accent/40 bg-accent/5 px-6 py-3 text-body-base font-medium text-accent transition-all duration-300 hover:border-accent hover:bg-accent hover:text-white active:scale-[0.98];
+  }
+}

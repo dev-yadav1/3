@@ -1,0 +1,63 @@
+Dev Yadav
+Southwest Delhi, Delhi - 110073
++91 8743897056 | devydv@proton.me | linkedin.com/in/dev-ydv
+
+AI/ML-FOCUSED COMPUTER SCIENCE STUDENT
+=====================================
+AI/ML-focused Computer Science student with hands-on experience building and improving intelligent systems. Skilled in designing and testing AI workflows, adapting language models, and working with real-world datasets to improve performance and reliability. Experienced with Python, PyTorch, and Hugging Face, with a strong focus on practical implementation.
+
+EDUCATION
+---------
+Guru Gobind Singh Indraprastha University, New Delhi
+Bachelor of Technology, Computer Science and Engineering (Aug 2022 – May 2026)
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+IT Support — JY Consulting Engineers, New Delhi (Jan 2026 – Present)
+• Provided technical support for hardware, software, and network issues, including Windows, Office 365, VPN, and Wi-Fi troubleshooting.
+• Managed user accounts, IT support tickets, and software/security updates while documenting issue resolutions.
+• Supported employee onboarding/offboarding and assisted with data backup and cybersecurity best practices.
+
+Machine Learning Intern — Pharma RAG, New Delhi (Jun 2025 – Aug 2025)
+• Assisted in training and refining AI language models for multiple Indian languages, preparing and managing datasets of 50,000+ text samples.
+• Used Python, Hugging Face, and Google Colab to adapt pre-trained models, achieving a 15% improvement in regional language translation accuracy.
+
+Research Analyst — Big Bulls, New Delhi (Jan 2025 – Mar 2025)
+• Authored 12+ reports on global economic trends to support strategic business decisions.
+• Contributed to a 17% increase in quarterly sales through precise data-driven targeting.
+
+KEY PROJECTS
+------------
+1. Network-Wide Ad Blocker & DNS Filter (Self-hosted, 2025)
+• Deployed Pi-hole in Docker for network-wide DNS-level blocking across 15+ devices.
+• Configured custom blocklists blocking 200,000+ malicious domains, reducing ad traffic by 30%.
+• Integrated Tailscale VPN for secure remote DNS resolution.
+
+2. Private VPN (Networking, 2025)
+• Built a WireGuard-based VPN for secure tunnelling via host laptop, 100% encrypted traffic.
+• Optimized for LAN-based routing, decreasing latency by 20ms.
+
+3. Web Activity Monitoring Tool (Python, 2025)
+• Real-time web activity tracking tool with encrypted storage and stealth monitoring features.
+
+4. Workout Tracker App - iOS (React Native, 2024)
+• Cross-platform app with a RESTful Python backend for tracking workouts, local storage, and interactive progress charts.
+
+5. Location Guessing Game (Web App, 2024)
+• Dynamic game using the OpenMaps API for location-based gameplay with real-time scoring.
+• Reduced API call overhead by 25% through caching.
+
+CERTIFICATIONS
+--------------
+• Google Cybersecurity Certificate (Coursera)
+• AWS Academy – Generative AI Foundations
+• AWS Academy – Cloud Computing
+• Cisco CCNA (200-301) – LinkedIn Learning
+
+TECHNICAL SKILLS
+----------------
+• Programming: Python, C++, Bash, JavaScript
+• Web/App: React Native, REST APIs, HTML/CSS
+• Networking & Security: WireGuard, Tailscale, Pi-hole, Firewall, DNS
+• Cloud & DevOps: AWS, Docker, Docker Compose, Git, Linux Sys Admin
+• AI/ML: PyTorch, Hugging Face, NLP, Data Analysis
